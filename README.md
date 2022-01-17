@@ -1,4 +1,4 @@
-# FastHeart
+# FastHeart (ROBLOX ONLY)
 FastHeart is just like Heartbeat but it more faster!
 
 # Benchmark (Rblx Server)
